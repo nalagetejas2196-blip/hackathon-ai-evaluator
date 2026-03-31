@@ -10,6 +10,6 @@ This project is a simple prototype that allows users to submit problem statement
 - HTML, JavaScript
 
 ## How to Run
-1. Open `index.html` in any web browser
+1. Open `Index(2).html` in any web browser
 2. Fill the Problem Statement and Solution fields
 3. Click "Evaluate" to see scores and feedback
