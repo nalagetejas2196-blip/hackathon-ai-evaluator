@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Hackathon Evaluator</title>
+</head>
+<body>
+  <h1>Hackathon Submission</h1>
+
+  <textarea placeholder="Enter Problem Statement" rows="4" cols="50"></textarea><br><br>
+  <textarea placeholder="Enter Solution" rows="4" cols="50"></textarea><br><br>
+
+  <button onclick="evaluate()">Evaluate</button>
+
+  <h2 id="result"></h2>
+
+  <script>
+    function evaluate() {
+      document.getElementById("result").innerText =
+        "Innovation: 8/10 | Feasibility: 7/10 | Feedback: Strong idea, improve scalability.";
+    }
+  </script>
+</body>
+</html>
